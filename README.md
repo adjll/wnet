@@ -7,11 +7,11 @@ Environment
 
 Data Preparation
 -------
->>Download https://openi.pcl.ac.cn/OpenOrcinus_orca/URPC_opticalimage_dataset/datasets
+Download https://openi.pcl.ac.cn/OpenOrcinus_orca/URPC_opticalimage_dataset/datasets
 
 Training
 -------
->> python train.py
+ python train.py
 
 Test
->> python test.py
+python test.py
